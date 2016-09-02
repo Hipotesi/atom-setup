@@ -19,6 +19,7 @@ _Must have packages that enhance the power of Atom._
 
 ### Themes
 
+- One Dark.
 ### Syntax
 
 ## Learning Resources
