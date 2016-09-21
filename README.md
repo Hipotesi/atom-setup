@@ -14,12 +14,16 @@ _Must have packages that enhance the power of Atom._
 - [Minimap](https://atom.io/packages/minimap) - A preview of the full source code.
 - [Travis CI Status](https://atom.io/packages/travis-ci-status) - Add Travis CI status of the project to the Atom status bar.
 - [EditorConfig](https://atom.io/packages/editorconfig) - Helps developers maintain consistent coding styles between different editors.
+- [FileIcons](https://atom.io/packages/file-type-icons) - Changes the icon for files in the Tree View and Tabs to reflect the file's type.
+- [Linter](https://atom.io/packages/linter) - A Base Linter with Cow Powers.
 
 ## UI
 
 ### Themes
 
-- One Dark.
+- [One Dark](https://github.com/atom/one-dark-ui)
+
+
 ### Syntax
 
 ## Learning Resources
