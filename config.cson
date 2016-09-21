@@ -1,0 +1,47 @@
+"*":
+  core:
+    disabledPackages: [
+      "wrap-guide"
+      "linter-scss-lint"
+      "metrics"
+      "fonts"
+    ]
+    ignoredNames: [
+      "node_modules/"
+      ".git"
+      ".DS_Store"
+      "node_modules"
+    ]
+    openEmptyEditorOnStart: false
+    themes: [
+      "one-dark-ui"
+      "atom-material-syntax"
+    ]
+  editor:
+    fontFamily: "Source Code Pro"
+    invisibles: {}
+    showIndentGuide: true
+    softWrap: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "40ac019d-b141-f05f-7395-aa27e68e13d3"
+  "file-icons": {}
+  linter:
+    errorPanelHeight: 24
+  "linter-jshint": {}
+  minimap: {}
+  "one-dark-ui": {}
+  pigments: {}
+  "seti-ui":
+    compactView: true
+    font: "Default Atom Font"
+  "tree-view":
+    hideIgnoredNames: true
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
+".pug.source":
+  editor:
+    autoIndent: false
+    autoIndentOnPaste: false
+    tabLength: 4
