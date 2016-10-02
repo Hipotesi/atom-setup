@@ -23,6 +23,7 @@
     showIndentGuide: true
     softWrap: true
     tabLength: 4
+    tabType: "hard"
   "exception-reporting":
     userId: "40ac019d-b141-f05f-7395-aa27e68e13d3"
   "file-icons": {}
