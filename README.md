@@ -35,6 +35,9 @@ _Customizing the look and feel of the editor._
 
 ### Syntax
 
+- [Material Syntax](https://atom.io/themes/material-syntax) - Bringing Material Design to Atom.
+- [Atom Material Synax] (https://atom.io/themes/atom-material-syntax) - A dark syntax theme for Atom that uses Google's Material Design color palette.
+
 ## Learning Resources
 
 _Resources to learn the power of Atom._
@@ -44,23 +47,23 @@ _Resources to learn the power of Atom._
 
 <details>
   <summary>`apm list --installed --bare`</summary>
-    ```
-    atom-jade@0.3.0
-    atom-material-syntax@0.4.6
-    atom-material-syntax-dark@0.2.5
-    editorconfig@1.4.1
-    emmet@2.4.3
-    file-icons@1.7.22
-    linter@1.11.18
-    linter-scss-lint@3.0.4
-    linter-xo@0.18.0
-    material-dark-syntax@0.0.0
-    material-syntax@0.5.0
-    minimap@4.25.0
-    pigments@0.37.0
-    set-syntax@0.3.2
-    seti-syntax@1.0.1
-    seti-ui@1.3.2
-    travis-ci-status@1.3.0
-    ```
+    <ul>
+    <li>atom-jade@0.3.0</li>
+    <li>atom-material-syntax@0.4.6</li>
+    <li>atom-material-syntax-dark@0.2.5</li>
+    <li>editorconfig@1.4.1</li>
+    <li>emmet@2.4.3</li>
+    <li>file-icons@1.7.22</li>
+    <li>linter@1.11.18</li>
+    <li>linter-scss-lint@3.0.4</li>
+    <li>linter-xo@0.18.0</li>
+    <li>material-dark-syntax@0.0.0</li>
+    <li>material-syntax@0.5.0</li>
+    <li>minimap@4.25.0</li>
+    <li>pigments@0.37.0</li>
+    <li>set-syntax@0.3.2</li>
+    <li>seti-syntax@1.0.1</li>
+    <li>seti-ui@1.3.2</li>
+    <li>travis-ci-status@1.3.0</li>
+    </ul>
 </details>
