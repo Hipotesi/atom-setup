@@ -15,6 +15,7 @@ _Must have packages that enhance the power of Atom._
 - [EditorConfig](https://atom.io/packages/editorconfig) - Helps developers maintain consistent coding styles between different editors.
 - [FileIcons](https://atom.io/packages/file-type-icons) - Changes the icon for files in the Tree View and Tabs to reflect the file's type.
 - [Linter](https://atom.io/packages/linter) - A Base Linter with Cow Powers.
+- [Project Manager](https://github.com/danielbrodin/atom-project-manager) - Project manager for the Atom editor.
 
 ## Packages
 
@@ -24,6 +25,7 @@ _Improving Atom's capabilities._
 - [Pigments](https://atom.io/packages/pigments) - A package to display colors in project and files.
 - [Set Syntax](https://atom.io/packages/set-syntax) - Easy Command Palette commands for setting the syntax of the current file.
 - [Travis CI Status](https://atom.io/packages/travis-ci-status) - Add Travis CI status of the project to the Atom status bar.
+- [Sublime Column Selection](https://atom.io/packages/sublime-style-column-selection) - Enable Sublime style 'Column Selection.
 
 ## UI
 
