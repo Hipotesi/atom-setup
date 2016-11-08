@@ -16,16 +16,20 @@ _Must have packages that enhance the power of Atom._
 - [FileIcons](https://atom.io/packages/file-type-icons) - Changes the icon for files in the Tree View and Tabs to reflect the file's type.
 - [Linter](https://atom.io/packages/linter) - A Base Linter with Cow Powers.
 - [Project Manager](https://github.com/danielbrodin/atom-project-manager) - Project manager for the Atom editor.
+- [Package Sync](https://atom.io/packages/package-sync) - Synchronizes packages installed between computers.
 
 ## Packages
 
 _Improving Atom's capabilities._
 
+- [Color Picker](https://atom.io/packages/color-picker) - A Color Picker for Atom.
 - [Emmet](https://atom.io/packages/emmet) - The essential tool for web developers.
+- [git-diff](https://atom.io/packages/git-diff) - Marks lines in the editor gutter that have been added, edited, or deleted since the last commit.
 - [Pigments](https://atom.io/packages/pigments) - A package to display colors in project and files.
 - [Set Syntax](https://atom.io/packages/set-syntax) - Easy Command Palette commands for setting the syntax of the current file.
 - [Travis CI Status](https://atom.io/packages/travis-ci-status) - Add Travis CI status of the project to the Atom status bar.
 - [Sublime Column Selection](https://atom.io/packages/sublime-style-column-selection) - Enable Sublime style 'Column Selection.
+- [WakaTime](https://atom.io/packages/wakatime) - Fitbit for programmers. Get automated metrics and insights about your programming.
 
 ## UI
 
