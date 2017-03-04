@@ -1,10 +1,20 @@
 "*":
+  "atom-clock":
+    locale: "es"
   core:
     disabledPackages: [
-      "wrap-guide"
-      "linter-scss-lint"
       "metrics"
       "fonts"
+      "language-csharp"
+      "language-clojure"
+      "language-go"
+      "language-make"
+      "language-mustache"
+      "language-objective-c"
+      "language-perl"
+      "language-property-list"
+      "language-ruby-on-rails"
+      "language-toml"
     ]
     ignoredNames: [
       "node_modules/"
@@ -13,36 +23,43 @@
       "node_modules"
     ]
     openEmptyEditorOnStart: false
+    telemetryConsent: "no"
     themes: [
       "one-dark-ui"
-      "atom-material-syntax"
+      "material-dark-syntax"
     ]
   editor:
     fontFamily: "Source Code Pro"
-    invisibles: {}
+    fontSize: 17
+    invisibles:
+      cr: " "
+      eol: " "
     showIndentGuide: true
+    showInvisibles: true
     softWrap: true
     tabLength: 4
-    tabType: "hard"
+    tabType: "auto"
   "exception-reporting":
     userId: "40ac019d-b141-f05f-7395-aa27e68e13d3"
   "file-icons": {}
+  "git-blame":
+    showOnlyLastNames: false
+  "language-babel": {}
   linter:
     errorPanelHeight: 24
   "linter-jshint": {}
   minimap: {}
   "one-dark-ui": {}
   pigments: {}
-  "seti-ui":
-    compactView: true
-    font: "Default Atom Font"
   "tree-view":
     hideIgnoredNames: true
-    hideVcsIgnoredFiles: true
   welcome:
     showOnStartup: false
 ".pug.source":
   editor:
     autoIndent: false
     autoIndentOnPaste: false
+    invisibles:
+      cr: false
+      eol: false
     tabLength: 4

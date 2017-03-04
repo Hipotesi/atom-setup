@@ -45,8 +45,7 @@ _Customizing the look and feel of the editor._
 
 ### Syntax
 
-- [Material Syntax](https://atom.io/themes/material-syntax) - Bringing Material Design to Atom.
-- [Atom Material Synax] (https://atom.io/themes/atom-material-syntax) - A dark syntax theme for Atom that uses Google's Material Design color palette.
+- [Material Dark Syntax](https://atom.io/themes/material-dark-syntax) - A dark material design syntax theme with a good contrast and vibrant pops of colors.
 
 ## Learning Resources
 
@@ -60,15 +59,14 @@ _Resources to learn the power of Atom._
     <ul>
         <li>atom-clock@0.1.3</li>
         <li>atom-jade@0.3.0</li>
-        <li>atom-react-native-autocomplete@0.0.27</li>
         <li>docblockr@0.9.1</li>
         <li>editorconfig@2.2.0</li>
         <li>emmet@2.4.3</li>
         <li>file-icons@2.0.10</li>
         <li>git-blame@0.4.11</li>
+        <li>material-dark-syntax@1.2.0</li>
         <li>highlight-selected@0.12.0</li>
         <li>language-babel@2.49.4</li>
-        <li>language-javascript-jsx@0.3.7</li>
         <li>linter@1.11.21</li>
         <li>linter-scss-lint@3.0.4</li>
         <li>linter-xo@0.21.2</li>
