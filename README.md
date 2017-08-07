@@ -15,7 +15,7 @@ _Must have packages that enhance the power of Atom._
 - [EditorConfig](https://atom.io/packages/editorconfig) - Helps developers maintain consistent coding styles between different editors.
 - [FileIcons](https://atom.io/packages/file-type-icons) - Changes the icon for files in the Tree View and Tabs to reflect the file's type.
 - [Linter](https://atom.io/packages/linter) - A Base Linter with Cow Powers.
-- [Package Sync](https://atom.io/packages/package-sync) - Synchronizes packages installed between computers.
+- [Sync-Settings](https://atom.io/packages/sync-settings) - Synchronize settings, keymaps, user styles, init script, snippets and installed packages across Atom instances.
 
 ## Packages
 
@@ -53,26 +53,3 @@ _Resources to learn the power of Atom._
 
 - [Atom Flight Manual](http://flight-manual.atom.io/) - A book that covers everything from getting off the ground to replacing the engine.
 - [Atom Editor Tutorials](https://www.youtube.com/playlist?list=PLLnpHn493BHHf0w8uGu9NM8LPf498ZvL_) - Atom editor tutorials by [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg)
-
-<details>
-  <summary>`apm list --installed --bare`</summary>
-    <ul>
-        <li>atom-clock@0.1.3</li>
-        <li>atom-jade@0.3.0</li>
-        <li>docblockr@0.9.1</li>
-        <li>editorconfig@2.2.0</li>
-        <li>emmet@2.4.3</li>
-        <li>file-icons@2.0.10</li>
-        <li>git-blame@0.4.11</li>
-        <li>material-dark-syntax@1.2.0</li>
-        <li>highlight-selected@0.12.0</li>
-        <li>language-babel@2.49.4</li>
-        <li>linter@1.11.21</li>
-        <li>linter-scss-lint@3.0.4</li>
-        <li>linter-xo@0.21.2</li>
-        <li>minimap@4.26.7</li>
-        <li>pigments@0.38.0</li>
-        <li>set-syntax@0.3.2</li>
-        <li>travis-ci-status@1.3.0</li>
-    </ul>
-</details>
