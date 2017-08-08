@@ -4,10 +4,9 @@
 
 ## Getting Started
 
-1. Download [Atom](https://atom.io)
-2. Install [`sync-settings`](https://atom.io/packages/sync-settings)
-3. Add [**GistID**](https://gist.github.com/carloscuesta) and **Access Token** to `sync-settings`.
-4. Hit `⇧⌘P` and type `sync-settings:backup` 🚀
+1. Install [`sync-settings`](https://atom.io/packages/sync-settings)
+2. Add [**GistID**](https://gist.github.com/carloscuesta) and **Access Token** to `sync-settings`.
+3. Hit `⇧ ⌘ P` and type `sync-settings:backup` 🚀
 
 ## Tools
 
