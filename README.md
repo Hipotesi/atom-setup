@@ -4,8 +4,10 @@
 
 ## Getting Started
 
-- [Atom](http://atom.io) - A hackable text editor for the 21st Century.
-- [Atom Docs](https://atom.io/docs) - Atom Documentation.
+1. Download [Atom](https://atom.io)
+2. Install [`sync-settings`](https://atom.io/packages/sync-settings)
+3. Add [**GistID**](https://gist.github.com/carloscuesta) and **Access Token** to `sync-settings`.
+4. Hit `⇧⌘P` and type `sync-settings:backup` 🚀
 
 ## Tools
 
