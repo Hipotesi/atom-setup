@@ -46,7 +46,7 @@ _Customizing the look and feel of the editor._
 
 ### Syntax
 
-- [Material Dark Syntax](https://atom.io/themes/material-dark-syntax) - A dark material design syntax theme with a good contrast and vibrant pops of colors.
+- [Sprinkles Syntax](https://atom.io/themes/sprinkles-syntax) - A sprinkled dark syntax theme with vibrant pops of colors.
 
 ## Learning Resources
 
